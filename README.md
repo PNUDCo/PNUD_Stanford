@@ -1,2 +1,2 @@
-# PNUD_Stanford
-2024_Seminar_project_MEDS
+# PNUD_MIT
+2025_Capstone_Project
